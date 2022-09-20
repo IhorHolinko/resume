@@ -1,0 +1,88 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.maincontent {
+    margin: 102px 342px 0 88px;
+    line-height: 24px;
+}
+
+.maincontent .projects .links{
+    color:#595959;
+}
+
+.maincontent .orange {
+    color:darkorange;
+}
+
+.work .color {
+    opacity:calc(40%);
+}
+
+.work .education {
+    margin-top: 45px;
+}
+
+.sidebar {
+    width: 370px;
+    height: 1319px;
+    background-color: #1E2939;
+    margin: 40px 0 0 30px;
+    color: #ffffff;
+    line-height: 24px;
+}
+
+.sidebar .photo {
+    max-width: 370px;
+    max-height: 354px;
+}
+
+.sidebar .contacts {
+    margin: 50px 0 0 40px;
+}
+
+.sidebar .contacts .contact-link {
+    color: #ffffff;
+    opacity:calc(50%);
+    margin-left: 10px;
+}
+
+.sidebar .techskills {
+    margin: 47px 0 0 40px;
+}
+
+.sidebar .techskills li {
+    color:#d37c09;
+}
+
+.sidebar .techskills .line {
+    margin-left: -20px;
+}
+
+.sidebar .techskills .line .color {
+    color: #ffffff;
+    opacity:calc(80%);
+}
+
+.sidebar .softskills {
+    margin: 47px 0 0 40px;
+}
+
+.sidebar .softskills .line {
+    margin-left: -20px;
+}
+
+.sidebar .softskills li {
+    color:#d37c09;
+}
+
+.sidebar .softskills .line .color {
+    color: #ffffff;
+    opacity:calc(80%);
+}
